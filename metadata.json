@@ -1,0 +1,5 @@
+{
+  "name": "OpenTerminal",
+  "description": "A professional-grade financial terminal clone featuring real-time simulated market data, interactive charting, and AI-powered financial analysis using Gemini 2.5.",
+  "requestFramePermissions": []
+}
